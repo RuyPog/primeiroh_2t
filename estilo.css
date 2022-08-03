@@ -1,22 +1,22 @@
 body{
-  background: grey;
+  background: green;
 }
 h1{
   text-align: center;
 }
 .caixa1{
-  position: absolute;
+  position: center;
   width: 200px;
   height: 200px;
-  background: white;
+  background: yellow;
   bottom: 0;
   right: 0;
 }
 .caixa2{
-  position: absolute;
+  position: center;
   width: 200px;
   height: 200px;
-  background: white;
+  background: blue;
   bottom: 30;
   right: 0;
 }
