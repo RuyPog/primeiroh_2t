@@ -45,4 +45,7 @@ widht: 10;
   background: black;
   border: 20px;
   margin: 20px;
+  border-width: 20px;
+  border-color: aquamarine;
+  border-style: double;
 }
