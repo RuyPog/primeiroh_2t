@@ -35,6 +35,11 @@ li a:hover {
 }
 #tricolor {
 widht: 10;
-
-
+}
+.caixaTricolor {
+  position:absolute
+  top: 45px;
+  width: 90%;
+  height: 120px;
+  background: black;
 }
