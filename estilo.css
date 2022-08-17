@@ -3,6 +3,7 @@ body {
 }
 h1 {
   text-align: center;
+  top:12%;
 }
 .menuPrincipal {
    position: absolute;
@@ -34,7 +35,7 @@ li a:hover {
    background: rgb(156, 228, 212);
 }
 #tricolor {
-widht: 10;
+width: 10;
 }
 .caixaTricolor {
   position:absolute;
