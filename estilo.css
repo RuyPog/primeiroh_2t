@@ -67,7 +67,9 @@ width: 10;
   border: 20px;
   margin: 20px;
   border-width: 20px;
-  border-color: aquamarine;
+  border-color: yellow;
   border-style: double;
   padding: 20px;
+  display: flex;
+  justify-content: center;
 }
