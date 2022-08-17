@@ -3,7 +3,27 @@ body {
 }
 h1 {
   text-align: center;
-  top:12%;
+position:absolute;
+  top: 40px;
+  width: 100%;
+  left: 0;
+  height: 120px;
+}
+h2 {
+text-align: left;
+position:absolute;
+  top: 150px;
+  width: 90%;
+  left: 20px;
+  height: 120px;
+}
+h3 {
+text-align: left;
+position:absolute;
+  top: 200px;
+  width: 90%;
+  left: 20px;
+  height: 120px;
 }
 .menuPrincipal {
    position: absolute;
@@ -31,8 +51,8 @@ li a {
   text-decoration: none;
 }
 li a:hover {
-   color: black;
-   background: rgb(156, 228, 212);
+   color: rgb(255, 0, 0);
+   background: rgb(50, 180, 170);
 }
 #tricolor {
 width: 10;
