@@ -51,8 +51,8 @@ li a {
   text-decoration: none;
 }
 li a:hover {
-   color: rgb(255, 0, 0);
-   background: rgb(50, 180, 170);
+   color: yellow;
+   background: yellowgreen);
 }
 #tricolor {
 width: 10;
