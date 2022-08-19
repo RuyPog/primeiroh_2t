@@ -33,10 +33,10 @@ li a:hover {
    color: rgb(161, 119, 41);
    background: rgb(255, 208, 0);
 }
-#🤨 {
+#esfera {
 width: 10;
 }
-.caixa🤨 {
+.caixaEsfera {
   position: absolute;
   top: 45px;
   width: 90%;
