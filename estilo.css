@@ -2,7 +2,9 @@ body {
   background-color: rgb(255, 255, 255);
   margin: 0;
   padding: 0;
-
+}
+h1 {
+	text-align: center;
 }
 .menuPrincipal {
    position: absolute;
@@ -33,34 +35,47 @@ li a:hover {
    color: rgb(161, 119, 41);
    background: rgb(255, 208, 0);
 }
-#esfera {
-width: 10;
-}
-.caixaEsfera {
-  position: absolute;
-  top: 45px;
-  width: 90%;
-  left: 0;
-  height: 120px;
-  background: black;
-  border: 20px;
-  margin: 20px;
-  border-width: 20px;
-  border-color: yellow;
-  border-style: double;
-  padding: 20px;
-  display: flex;
-  justify-content: center;
-}
 .rodape {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 35px;
-  background: yellow;
-  color: yellowgreen;
+   position: absolute;
+   bottom: 0;
+   width: 100%;
+   height: 35px;
+   background: black;
+   color: blanchedalmond;
+   display: flex;
+   justify-content: center;
 }
 .conteudo {
 position: absolute;
 top: 45px;
+}
+#armilar {
+   width: 100%;
+}
+#imperio {
+   width: 100%;
+}
+#republica {
+   width: 100%;
+}
+.Armilar {
+    position: absolute;
+    top: 3px;
+    right: 20px;
+    width: 55px;
+    height: 55px;
+}
+.Imperio {
+position: absolute;
+    top: 3px;
+    right: 20px;
+    width: 58px;
+    height: 55px;
+}
+.Republica {
+    position: absolute;
+    top: 3px;
+    right: 20px;
+    width: 54px;
+    height: 55px;
 }
