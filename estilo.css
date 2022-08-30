@@ -303,7 +303,20 @@ footer{
 	text-align: center;
 	background: green;
 }
-.video{
+.video1{
+  top: 400px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+ }
+.video2{
+  top: 500px;
+  position: relative;
+  display: flex;
+  justify-content: center;
+ }
+.video3{
+  top: 600px;
   position: relative;
   display: flex;
   justify-content: center;
