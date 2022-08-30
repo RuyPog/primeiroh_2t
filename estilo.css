@@ -303,7 +303,7 @@ footer{
 	text-align: center;
 	background: green;
 }
- iframe{
+.video{
   position: relative;
   display: flex;
   justify-content: center;
