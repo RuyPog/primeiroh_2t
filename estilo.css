@@ -21,6 +21,7 @@ h1 {
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h2 {
+margin-top: 60px;
 position: relative;
 	top: 110px;
 	text-align: center;
@@ -33,22 +34,18 @@ h4 {
 }
  p{
 text-indent: 1.5em; 
-margin: 60px;
+margin: 0 auto;
+ padding-top: 60px;
  position: relative;
  top: 130px;
-	left: 300px;
         width: 50%;
         height: auto;
 	font-family:'Lucida Sans';
 	text-align: justify;
 }
 .algarves {
-text-indent: 1.5em; 
-margin: 60px;
- position: relative;
- top: 130px;
-	left: 300px;
-        width: 50%;
+text-indent: 1.5em;
+ padding-top: 60px;
         height: auto;
 	font-family:'Lucida Sans';
 	text-align: justify;
@@ -309,21 +306,21 @@ position: absolute;
     border-color: black;
 }
 .video1{
-  margin-top: 220px;
+  margin-top: 180px;
   margin-bottom: 20px;
   position: relative;
   display: flex;
   justify-content: center;
  }
 .video2{
-  margin-top: 90px;
+  margin-top: 180px;
   margin-bottom: 20px;
   position: relative;
   display: flex;
   justify-content: center;
  }
 .video3{
-  margin-top: 90px;
+  margin-top: 180px;
   margin-bottom: 20px;
   position: relative;
   display: flex;
